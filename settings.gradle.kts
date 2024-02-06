@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Interactive Demo"
+rootProject.name = "scrollview"
 include(":app")
  
