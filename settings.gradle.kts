@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ExplicitApp"
+rootProject.name = "Interactive Demo"
 include(":app")
  
